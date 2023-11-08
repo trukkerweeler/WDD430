@@ -1,16 +1,5 @@
 export function TodoItem( { id, title, completed, toggleTodo, deleteTodo}) {
     
-    // function toggleTodo() {
-    //     console.log("toggleTodo")
-    // }
-
-    // function deleteTodo() {
-    //     console.log("deleteTodo")
-    // }
-
-
-
-    
     return (
         <li>
             <label>
